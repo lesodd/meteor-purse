@@ -1,5 +1,5 @@
 # meteor-purse
 # install meteor
-# clone the app // https://github.com/fadecsolutions/meteor-purse.git
+This is a project base on meteor Universiy: https://university.meteor.com/course/meteor-101
 # run npm install
 # meteor run or meteor
